@@ -1,4 +1,4 @@
-# GH-FoodSystemsLab: An Open Research Repository on Household Consumption, Food Poverty, and Market Integration in Ghana
+# GH-FoodSystems-Lab: An Open Research Repository on Household Consumption, Food Poverty, and Market Integration in Ghana
 
 ## 📘 Overview
 
